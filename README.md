@@ -1,3 +1,5 @@
+this is the line of code to solve the async issue:
+```
 const getPlaces = async () => {
     let placesCollection = [];
 
@@ -15,7 +17,7 @@ const getPlaces = async () => {
 
     return placesCollection;
 };
-
+```
 In the project directory, you can run:
 ### `npm install`
 ### `npm start`
